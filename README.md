@@ -7,6 +7,7 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 An end-to-end Business Intelligence solution built with Microsoft Power BI, Power Query, DAX, and Excel to transform raw retail sales data into actionable business insights.
+
 ---
 
 ## Dashboard Preview
