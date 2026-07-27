@@ -1,4 +1,4 @@
-# # Retail Sales Analytics | End-to-End Business Intelligence Project
+# Retail Sales Analytics | End-to-End Power BI Project
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
