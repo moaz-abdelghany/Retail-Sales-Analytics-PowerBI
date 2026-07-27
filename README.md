@@ -6,8 +6,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-End-to-End Business Intelligence Project using Microsoft Power BI.
-
+An end-to-end Business Intelligence solution built with Microsoft Power BI, Power Query, DAX, and Excel to transform raw retail sales data into actionable business insights.
 ---
 
 ## Dashboard Preview
