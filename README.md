@@ -1,6 +1,18 @@
-# 📊 Retail Sales Analytics
+# Retail Sales Analytics | End-to-End Power BI Project
 
-### End-to-End Business Intelligence Project using Microsoft Power BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+End-to-End Business Intelligence Project using Microsoft Power BI.
+
+---
+
+## Dashboard Preview
+
+![Landing Page](Images/00-Landing-Page.png)
 
 ---
 
@@ -642,6 +654,18 @@ This project demonstrates practical experience in:
 - Data Storytelling
 
 ---
+## Technologies
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-blue?style=flat-square)
+![Star Schema](https://img.shields.io/badge/Star%20Schema-orange?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-darkgreen?style=flat-square)
+
+---
+
 
 # Acknowledgments
 
