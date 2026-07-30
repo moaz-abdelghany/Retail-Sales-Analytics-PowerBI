@@ -666,12 +666,20 @@ This project demonstrates practical experience in:
 
 ---
 
-
 # Acknowledgments
 
 This project was developed as part of my Business Intelligence portfolio to demonstrate end-to-end analytical skills using Microsoft Power BI.
 
 The project covers the complete workflow from raw data preparation to business insights and executive reporting.
+
+---
+
+## 👨‍💻 Author
+
+**Moaz Mohamed Abdelghany**
+
+- 💼 LinkedIn: https://www.linkedin.com/in/moaz-mohamed-abdelghany
+- 💻 GitHub: https://github.com/moaz-abdelghany
 
 ---
 
